@@ -1,4 +1,3 @@
-// NPR to USD conversion rate
 const nprToUsdRate = 0.0076; // 1 NPR ≈ 0.0076 USD
 
 document.getElementById('convertBtn').addEventListener('click', () => {
